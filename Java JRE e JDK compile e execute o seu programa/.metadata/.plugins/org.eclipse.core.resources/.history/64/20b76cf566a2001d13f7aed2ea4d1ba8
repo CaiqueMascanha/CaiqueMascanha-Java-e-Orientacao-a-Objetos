@@ -15,7 +15,5 @@ public class TestaVariaveis {
 		
 		idade = 7 * 5 +2;
 		System.out.println(idade);
-		
-		System.out.println("A idade é: " + idade);
 	}
 }
